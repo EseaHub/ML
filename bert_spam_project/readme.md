@@ -8,6 +8,7 @@
 **Библиотеки**:
 * transformers
 * torch (PyTorch)
+* scikit-learn
 * pandas 
 * numpy
 * seaborn
