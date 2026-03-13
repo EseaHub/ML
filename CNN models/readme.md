@@ -26,6 +26,7 @@
 
 <ins>Accuracy</ins> = **98%**.
 
+
 📚 Библиотеки:
 * tensorflow\keras
 * numpy
