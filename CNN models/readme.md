@@ -9,8 +9,25 @@
 * sklearn
 * matplotlib
 
+
 ## tf_CNN (MNIST, Cats_vs_Dogs, VGG19)
 ### 🔢 MNIST
 Написание мультиклассового классификатора на определение рукописных цифр.
 
 🎯 <ins>Accuracy</ins> = **99%**.
+
+### 🖼️ Cats_vs_Dogs
+Создание бинарного классификатора изображений кошек и собак из набора данных Cats vs. Dogs
+
+🎯 <ins>Accuracy</ins> = **87%**.
+
+### 🧠 VGG19
+Использование предварительно обученной на наборе ImageNet нейронной сети VGG19 для увеличения точности классификации изображений из набора данных Cats vs. Dogs.
+
+🎯 <ins>Accuracy</ins> = **98%**.
+
+📚 Библиотеки:
+* tensorflow\keras
+* numpy
+* sklearn
+* matplotlib, seaborn
