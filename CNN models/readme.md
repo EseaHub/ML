@@ -8,3 +8,9 @@
 * numpy
 * sklearn
 * matplotlib
+
+## tf_CNN (MNIST, Cats_vs_Dogs, VGG19)
+### 🔢 MNIST
+Написание мультиклассового классификатора на определение рукописных цифр.
+
+🎯 <ins>Accuracy</ins> = **99%**.
