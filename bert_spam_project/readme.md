@@ -7,7 +7,7 @@
 
 **Библиотеки**:
 * transformers
-* torch (PyTorch)
+* PyTorch
 * scikit-learn
 * pandas 
 * numpy
