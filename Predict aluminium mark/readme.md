@@ -9,5 +9,5 @@
 * CatBoost, LightGBM, XGBoost
 
 ### 📏 Метрика
-<ins> Accuracy</ins>: лучшая модель показала результат в **99.84%**.
+<ins>Accuracy</ins>: лучшая модель показала результат в <ins>99.84%</ins>.
 
