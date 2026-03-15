@@ -11,4 +11,4 @@
 * scikit-learn
 * pandas 
 * numpy
-* seaborn
+* matplotlib, seaborn
