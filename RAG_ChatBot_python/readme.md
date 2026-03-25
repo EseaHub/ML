@@ -11,12 +11,10 @@
 * torch
 * pydantic
 
-### 🤖 Модели
-| Модель | Тип | Назначение |
-|--------|-----|------------|
-| `sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2` | Embeddings | Векторизация текста (поддержка русского языка) |
-| `deepseek-chat` | LLM (API) | Генерация ответов на вопросы |
-| `ChromaDB` | Vector Store | Хранение и поиск векторных представлений |
+### Модели
+* `sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2` - векторизация текста (поддержка русского языка) |
+* `deepseek-chat` - генерация ответов на вопросы. LLM (API)
+
 
 ### Результаты
 Проведена <ins>обработка данных</ins>: **368 страниц** представили **1396 семантических чанков**.
