@@ -12,7 +12,7 @@
 * pydantic
 
 ### Модели
-* `sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2` - векторизация текста (поддержка русского языка) |
+* `sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2` - векторизация текста
 * `deepseek-chat` - генерация ответов на вопросы. LLM (API)
 
 
